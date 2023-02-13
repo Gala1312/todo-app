@@ -1,0 +1,48 @@
+{
+  "deeds": [
+    {
+      "title": "eee",
+      "description": "eee",
+      "category": "Shopping List",
+      "id": "0b67e66b-55f2-4d05-93c5-03235ab63d6b"
+    },
+    {
+      "title": "аааа",
+      "description": "ааааа",
+      "category": "...",
+      "id": "a2c9115c-b8e3-449e-8f5e-eb1a2e0aca6d"
+    },
+    {
+      "title": "rrrr",
+      "description": "rrr",
+      "category": "Homework",
+      "id": "34d6c94a-64e8-49e0-aafa-040dc473755a"
+    },
+    {
+      "title": "ttt",
+      "description": "ttt",
+      "category": "Child",
+      "id": "f43488ac-a26c-4f68-93bf-f226f981f0d8"
+    }
+  ],
+  "filters": [
+    {
+      "name": "All"
+    },
+    {
+      "name": "Shopping List"
+    },
+    {
+      "name": "Homework"
+    },
+    {
+      "name": "Bussines"
+    },
+    {
+      "name": "Child"
+    },
+    {
+      "name": "Hobbi"
+    }
+  ]
+}

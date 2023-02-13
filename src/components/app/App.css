@@ -1,0 +1,19 @@
+.app {
+   height: 100vh;
+   overflow-y: scroll;
+   background:url('../../image/fone2.png') center / cover no-repeat;
+   
+ }
+ .content {
+   margin: 0 auto;
+   padding-top: 50px;
+   max-width: 760px;
+   display: grid;
+   grid-template-columns: 160px 560px;
+
+ }
+ .content__panel {
+   display: flex;
+   flex-direction: column;
+   padding-right: 40px;
+ }
